@@ -1,1 +1,4 @@
 chanchito feliz
+canchito triste
+canchito enojado
+chanchito con sueño
